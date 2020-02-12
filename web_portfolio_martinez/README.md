@@ -8,7 +8,7 @@ The next issue was the header image. It would either stretch or be too small and
 
 The "Hi I'm Kat" section went relatively smoothly and I used grids to get it to 2 columns. It changes to 1 column when the screen gets smaller using media queries. With all of the images, it is a circle and I had trouble making it a circle because when using border-radius on a rectangular image, it makes an oval, not a circle. I solved this by just cropping the images in PhotoShop beforehand into a square to make my life easier.
 
-The portfolio section also worked pretty well even though it took a little bit for me to figure out how to put the heading underneath the images. (Just put a (<p>) or (<h4>) inside the same div!! Why didn't I figure it out earlier?)
+The portfolio section also worked pretty well even though it took a little bit for me to figure out how to put the heading underneath the images. (Just put a p or h4 inside the same div!! Why didn't I figure it out earlier?)
 
 The contact page gave me trouble because the form isn't working well with the grids and it still isn't. The heading doesn't match the form and I couldn't figure it out. Other than that it worked okay. The submit button isn't lined up perfectly but adding padding didn't help so it isn't perfectly aligned.
 
